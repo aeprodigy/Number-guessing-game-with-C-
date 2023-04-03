@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680543600 source:c:\users\mike mambwe\documents\codeblocks\random\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
